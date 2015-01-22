@@ -1,0 +1,40 @@
+Acquiring linear subspaces for face recognition under variable lighting
+PAMI2005
+
+Recovering parameters from a sub-optimal image
+US patent 2011
+
+Local, deformable precomputed radiance transfer
+US patent 2009
+
+Spherical harmonics scaling
+US pattent K Zhou
+
+Illumination compensation and normalization in eigenspace-based face recognition: A comparative study of different pre-processing approaches
+PALetter 2008
+
+Comparison of face Recognition Algorithms on Dummy Faces
+MM2012
+
+ FAKE FACE DATABASE AND PRE-PROCESSING
+
+Illumination Invariant Face Recognition System using Local Directional Pattern and Principal Component Analysis
+
+Face recognition from a single training image under arbitrary unknown lighting using spherical harmonics
+PAMI2006
+
+Face recognition under variable lighting using harmonic image exemplars
+cvpr2003
+
+Illumination invariant face recognition: A survey
+
+Retinex method based on adaptive smoothing for illumination invariant face recognition
+SP2008
+
+Robust face recognition using 2D and 3D data: Pose and illumination compensation
+
+Face relighting from a single image under arbitrary unknown lighting conditions
+
+Face image relighting using locally constrained global optimization
+
+face de lighing
